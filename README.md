@@ -2,14 +2,14 @@
 Настройка сетей в Linux на виртуальных машинах.
 
 ## Содержание
-1. [Part 1. Инструмент ipcalc](#title1)
-2. [Part 2. Статическая маршрутизация между двумя машинами](#title2)
-3. [Part 3. Утилита iperf3](#title3)
-4. [Part 4. Сетевой экран](#title4)
-5. [Part 5. Статическая маршрутизация сети](#title5)
-6. [Part 6. Динамическая настройка IP с помощью DHCP](#title6)
-7. [Part 7. NAT](#title7)
-8. [Part 8. Дополнительно. Знакомство с SSH Tunnels](#title8)
+[Part 1. Инструмент ipcalc](#title1)
+[Part 2. Статическая маршрутизация между двумя машинами](#title2)
+[Part 3. Утилита iperf3](#title3)
+[Part 4. Сетевой экран](#title4)
+[Part 5. Статическая маршрутизация сети](#title5)
+[Part 6. Динамическая настройка IP с помощью DHCP](#title6)
+[Part 7. NAT](#title7)
+[Part 8. Дополнительно. Знакомство с SSH Tunnels](#title8)
 
 
 ## <a id="title1" style="color: white;">Part 1. Инструмент ipcalc</a>
